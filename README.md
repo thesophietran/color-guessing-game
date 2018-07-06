@@ -15,4 +15,4 @@ The game could be switched between Hard and Easy Mode:
     <img src="https://github.com/loanttran/color-guessing-game/blob/master/images/3.png" width=60%> 
 </p>
 
-*Project for a course on Udemy, "The Web Developer Bootcamp" by Colt Steele.<br>
+*This is my code for a project for the Udemy course, "The Web Developer Bootcamp" by Colt Steele.
