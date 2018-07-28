@@ -1,5 +1,6 @@
 # Color Guessing Game
 Practice your RGB skill. Choose the color square that matches the RGB value at the top page. 
+Click here to player: https://loanttran.github.io/color-guessing-game/ 
 
 <p align="center">
     <img src="https://github.com/loanttran/color-guessing-game/blob/master/images/1.png" width=60%>
